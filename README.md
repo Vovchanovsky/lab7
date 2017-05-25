@@ -1,2 +1,1 @@
-# lab7
-Mobile phone
+# Mobile phone
